@@ -1,6 +1,7 @@
 # Portfolio Manager Mobile
 
 A mobile-first voice and text interface for interacting with your investment portfolio. Built with React Native and Expo, this app allows you to ask questions about your portfolio and get AI-powered responses with text-to-speech capabilities.
+I built this as an experiment to make a voice controlled, mobile native app to interact with my python api. I believe much of our future interaction with AI powered apps will be by voice, rather than clicks and swipes on user interfaces.
 
 ## Features
 
